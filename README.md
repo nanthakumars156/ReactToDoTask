@@ -1,3 +1,3 @@
 # Netlify
 
-https://calm-smakager-8943bb.netlify.app/
+https://lucky-chebakia-9274d3.netlify.app/
